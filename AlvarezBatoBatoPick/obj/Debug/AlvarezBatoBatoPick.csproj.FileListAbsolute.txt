@@ -1,0 +1,10 @@
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\bin\Debug\AlvarezBatoBatoPick.exe.config
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\bin\Debug\AlvarezBatoBatoPick.exe
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\bin\Debug\AlvarezBatoBatoPick.pdb
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.csproj.AssemblyReference.cache
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.Properties.Resources.resources
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.csproj.GenerateResource.cache
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.csproj.CoreCompileInputs.cache
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.exe
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.pdb
+D:\Kianna\Programming\EDP\Group 7\AlvarezBatoBatoPick\AlvarezBatoBatoPick\AlvarezBatoBatoPick\obj\Debug\AlvarezBatoBatoPick.Form1.resources
